@@ -1,8 +1,1 @@
-# Authentication & Authorization | Part 4
-
-- Integrating APIs
-  - Get Exclusive Prime Deals
-- API Call Possible Views
-  - Handle Success View
-  - Handle Failure View
-  - Handle Loading View
+After clone to local system create a new branch and run after making changes
